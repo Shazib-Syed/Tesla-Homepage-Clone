@@ -16,6 +16,10 @@ This project is a clone of the Tesla homepage, built using Tailwind CSS and Post
 ```bash
 git clone https://github.com/Shazib-Syed/Tesla-Homepage-Clone.git
 ```
+```bash
+npm start
+
+```
 ## How to Run the Project
 ```bash
 npm start
