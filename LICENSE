@@ -1,18 +1,9 @@
-## PR-Only Usage License (2025)
+## License – PR-Only Usage
 
 Copyright (c) 2025 Syed Shazib Ahmad
 
-Permission is hereby **granted only to individuals whose proposed changes have been accepted via a pull request** to use, copy, modify, or distribute this software. Any other use of the software is strictly prohibited.
-
-You may:
-
-* Submit a pull request for changes, improvements, or fixes.
-* Use or modify the software **only after your pull request has been accepted** by the repository maintainers.
-
-You may **not**:
-
-* Use, copy, distribute, or deploy this software outside the pull request process.
-* Sell, sublicense, or redistribute this software without explicit permission.
+Permission is granted **only to individuals whose proposed changes have been accepted via a pull request** to use, copy, modify, or distribute this software. Any other use is strictly prohibited.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE, EXCEPT AS PERMITTED ABOVE.
 
+---
